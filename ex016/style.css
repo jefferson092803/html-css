@@ -1,0 +1,43 @@
+@charset "UTF-8";
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+*{
+    /*height: 100%;*/
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p{
+    text-align: justify;
+    font-size: 1.5em;
+    font-weight: bolder;
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+body{
+    background-image: linear-gradient(90deg,#1547EB,#1908D4 );
+
+}
+
+main{
+   background-color: white;
+   border-radius: 20px;
+   box-shadow: 5px 5px 15px #5d27a8;
+   width: 600px;
+   padding: 10px;
+   margin: auto;
+}
+
+h1{
+  color: #8333F5;
+  text-align: center;
+  text-shadow: 1px 1px 2px rgb(58, 23, 107);
+  
+}
+
+h2{
+   color: #0878D4;
+   font-size: 2em;
+   font-style: italic;
+   font-family: 'Pacifico', cursive;
+}
